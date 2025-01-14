@@ -1,47 +1,50 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `14/01/2025`  
+**Studentnaam:** `Stijn Bruynbroeck`  
+**Groepsnaam:** `De badeendjes`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
+- Ik heb vandaag een individuele moodboard en personas gemaakt. In de voormiddag hebben we van de klant een rondleiding gekregen bij grooteiland en hebben we de vragen die we gisteren samen hadden opgesteld gevraagd aan de klant.
 
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+> **Activiteiten:**
+>
+> - In illustrator heb ik een moodboard gemaakt aan de hand van meerdere inspiratiebronnen (pinterest)
+> - Samen met (Wout,Ephram,Qwinte,Sam,Ramon) hebben we vragen gesteld die we gisteren hadden opgesteld aan de klant
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_
 
+- Vandaag heb ik meer informatie opgedaan over de klant en zijn doelgroep aan de hand van een rondleiding.
+- Vandaag heb ik ook geleerd hoe je pages kan exporteren in figma
 
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> **Nieuwe skills:**
+>
+> - Figma pages exporteren
+> -
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_
 
+- Ik voel me fysiek niet goed want ik heb denk ik een griep. Dit stoort mij ook bij mijn werkritme
+- 🤒
 
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> **Algmeeen gevoel:**
+>
+> - **"Blij"** :ziek:
+> - **"Gefrustreerd"** :ziek:
 
 ---
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
