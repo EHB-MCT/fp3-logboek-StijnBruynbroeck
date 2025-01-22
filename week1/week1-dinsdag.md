@@ -26,7 +26,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
+> **Algmeen gevoel:**
 >
 > - Ik voel me fysiek niet goed want ik heb denk ik een griep. Dit stoort mij ook bij mijn werkritme
 > - 🤒

@@ -30,7 +30,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
+> **Algmeen gevoel:**
 >
 > - Uitgeput, ik denk dat ik niet alleen voor mezelf spreek als ik zeg dat we het gehad hebben met het maken van wireframe.
 > - 😫

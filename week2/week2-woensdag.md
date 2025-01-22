@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `16/01/2025`  
+**Datum:** `22/01/2025`  
 **Studentnaam:** `Stijn Bruynbroeck`  
 **Groepsnaam:** `De badeendjes`
 
@@ -10,8 +10,9 @@
 
 > **Activiteiten:**
 >
-> - Samen met heel het team gepresenteert voor de klant. 
-> - Ik heb opzoekingswerk gedaan naar sites die een AI assistent/chatbot/wizzard gebruiken.
+> - Samen met Qwinte naar Sonja van groot eiland gegaan voor een usertesting/interview en daarna nog 2 andere user testings
+> - Design afgemaakt in figma samen met (Ramon,Sam,Ephram).
+> -  
 
 ---
 
@@ -21,16 +22,16 @@
 
 > **Nieuwe skills:**
 >
-> - Onder druk zonder repetatie presenteren zonder.
+> - Hoe een component maken in figma
 > -
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
-> De weg kwijt en teleurgesteld.
->
-> - 😵‍💫
+> **Algmeen gevoel:**
+> - Blij denk ik. 
+> - 🙃
+> - 
 
 ---

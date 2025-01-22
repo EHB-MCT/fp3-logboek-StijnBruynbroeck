@@ -26,7 +26,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
+> **Algmeen gevoel:**
 >
 > - Ik voel me minder gestrest en meer gerustgesteld na onze feedback sessie van kobe en kathy.
 > - 😌

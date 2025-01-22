@@ -28,7 +28,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
+> **Algmeen gevoel:**
 > De weg kwijt en teleurgesteld.
 >
 > - 😵‍💫

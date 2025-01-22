@@ -26,7 +26,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-> **Algmeeen gevoel:**
+> **Algmeen gevoel:**
 >
 > - Ik voelde me in de ochtend nog steeds ziek, maar in de middag voelde ik me beter en heb ik ook meer en beter werk kunnen leveren
 > - 🤒 en 🙂
