@@ -10,9 +10,9 @@
 
 > **Activiteiten:**
 >
-> - Samen met Ramon de code verengelsen 
+> - Samen met Ramon de alle html en css naar het Engels vertaald 
 > - mail geschreven naar nico van groot eiland voor 3d fotos afspraak
-> - Samen met Ramon en Ephram filter herwerkt
+> - Samen met Ramon en Ephram filter grafisch en in html en css herwerkt
 
 ---
 
@@ -20,7 +20,7 @@
 
 > **Nieuwe skills:**
 >
-> - In css heb ik geleerd dat de width van links naar rechts gaat
+> - In css heb ik geleerd dat de width van links naar rechts gaat en dan ook geleerd hoe ik deze width kan manipuleren
 > - 
 
 ---
@@ -29,8 +29,8 @@
 
 > **Algmeen gevoel:**
 >
-> - Ik voel me goed 
-> - 🙂
+> - Ik voel me goed 🙂
+> - 
 > -
 
 ---
