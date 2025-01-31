@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `24/01/2025`  
+**Datum:** `31/01/2025`  
 **Studentnaam:** `Stijn Bruynbroeck`  
 **Groepsnaam:** `De badeendjes`
 
@@ -9,19 +9,17 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**
->
-> - presentatie gerepeteerd en met wout gekeken naar een stuk van de back-end code
-> - gepresenteerd samen met (Ramon,Wout,Sam,Qwinte,Ephram)
+> - Tekst gerepeteerd 
+> - Gepresenteert voor de klant en de docenten
+> - 
 > -
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
--
-
 > **Nieuwe skills:**
-> - geleerd hoe session storage werkt
+> - Voor de eerste keer een bijna voledig product dat werkt presenteren 
 > -
 
 ---
@@ -30,8 +28,8 @@
 
 > **Algmeen gevoel:**
 >
-> - Uitgeput maar tevreden
+> - Blij dat het vakantie is
 >
-> - 😴
+> - 😄
 
 ---
